@@ -1414,6 +1414,7 @@
 						left: 0;
 						top: 52.5%;
 						font-size: 1.5em;
+						color: CE9D9D;
 						letter-spacing: -0.015em;
 						margin-top: 0;
 					}
@@ -1421,8 +1422,9 @@
 					#me header > p {
 						position: absolute;
 						left: 0;
-						top: 60%;
+						top: 62.5%;
 						font-size: 1.5em;
+
 						letter-spacing: -0.015em;
 						margin-top: 0;
 					}
